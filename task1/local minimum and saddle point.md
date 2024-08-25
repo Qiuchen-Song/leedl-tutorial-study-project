@@ -18,6 +18,6 @@ $g_{i}$=0:
 
 judge the type of critical point:   
 
-1. for every $\theta $, \frac{1}{2}(\theta -\theta ^{'}) ^{T}H(\theta -\theta ^{'}) > 0, **local minimum**
-2. for every $\theta $, \frac{1}{2}(\theta -\theta ^{'}) ^{T}H(\theta -\theta ^{'}) < 0, **local maximum**
-3. for $\theta $, \frac{1}{2}(\theta -\theta ^{'}) ^{T}H(\theta -\theta ^{'}) sometimes > 0, sometimes < 0, **saddle point**
+1. for every $\theta $, $\frac{1}{2}(\theta -\theta ^{'}) ^{T}H(\theta -\theta ^{'})$ > 0, **local minimum**
+2. for every $\theta $, $\frac{1}{2}(\theta -\theta ^{'}) ^{T}H(\theta -\theta ^{'})$ < 0, **local maximum**
+3. for $\theta $, $\frac{1}{2}(\theta -\theta ^{'}) ^{T}H(\theta -\theta ^{'})$ sometimes > 0, sometimes < 0, **saddle point**
